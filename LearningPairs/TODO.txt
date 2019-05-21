@@ -1,0 +1,6 @@
+TODO
+====
+
+1) add the basline script (that runs siamese networks on the data)
+
+2) script that tunes hyperparameters on training data only.
